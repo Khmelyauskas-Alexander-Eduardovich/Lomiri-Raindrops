@@ -1,0 +1,15 @@
+{
+    "name": "raindrops.khmelyauskas",
+    "description": "See Falling Raindrops like Rain in UT/Lomiri Device/s",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Raindrops",
+    "hooks": {
+        "raindrops": {
+            "apparmor": "raindrops.apparmor",
+            "desktop":  "raindrops.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "JasonWalt Bab@ <mardimusa8@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

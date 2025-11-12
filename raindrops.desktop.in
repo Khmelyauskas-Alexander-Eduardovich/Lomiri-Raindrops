@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Raindrops
+Name[Ru]=Капли
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/Waterdrop.svg
+X-Lomiri-Splash-Image=assets/Waterdrop_Splash.svg
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
+X-Lomiri-Splash-Color=#008b83
