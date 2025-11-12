@@ -1,0 +1,84 @@
+# Russian Translation by Khmelyauskas Alexander Eduardovich - JasonWalt Bab@ "Князь"
+msgid ""
+msgstr ""
+"Project-Id-Version: raindrops.khmelyauskas\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 20:46+0000\n"
+"PO-Revision-Date: 2022-12-26 21:51+0100\n"
+"Last-Translator: JasonWalt Bab@ <t.me/JasonWalt_Baba_Knyaz> \n"
+"Language-Team: Russian \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Language: ru_RU\n"
+"X-Source-Language: C\n"
+
+# Выбирайте!
+#: ../qml/Main.qml:140
+msgid "Mode:"
+msgstr "Режим:"
+
+# Ну или обычный
+#: ../qml/Main.qml:142:42
+msgid "Default"
+msgstr "Обычняк"
+
+# Радужный градиент
+#: ../qml/Main.qml:142:59
+msgid "Rainbow"
+msgstr "Радуга"
+
+# Эт когда цвет меняет по времени
+#: ../qml/Main.qml:142:74
+msgid "Smooth"
+msgstr "Гладкий"
+
+#: ../qml/Main.qml:142:59
+msgid "Random"
+msgstr "Случайно"
+
+# Red - Красный
+#: ../qml/Main.qml:150
+msgid "R"
+msgstr "К"
+
+# Green - Зелёный
+#: ../qml/Main.qml:155
+msgid "G"
+msgstr "З"
+
+# Blue - Синий
+#: ../qml/Main.qml:160
+msgid "B"
+msgstr "С"
+
+#: ../qml/Main.qml:178
+msgid "Speed"
+msgstr "Скорсть падения"
+
+#: ../qml/Main.qml:191
+msgid "Count"
+msgstr "Количество"
+
+#: raindrops.desktop.in:2
+msgid "Raindrops"
+msgstr "Капли"
+
+#: ../qml/Main.qml:167
+msgid "Rainbow Axis"
+msgstr "Оси Радуги"
+
+#: ../qml/Main.qml:199
+msgid "Fullscreen Mode"
+msgstr "Полноэкранный режим"
+
+#: ../qml/Main.qml:212
+msgid "Transparent Window"
+msgstr "Прозрачное окно"
+
+#: ../qml/Main.qml:122
+msgid "Autohide Duration"
+msgstr "Длительность скрытия"
